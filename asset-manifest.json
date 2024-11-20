@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.ed43c48f.css",
+    "main.js": "/Dashboard/static/js/main.8b1a76af.js",
+    "static/js/453.59b8a61b.chunk.js": "/Dashboard/static/js/453.59b8a61b.chunk.js",
+    "static/media/Layer 2.png": "/Dashboard/static/media/Layer 2.40d1d51d0a3600822ec2.png",
+    "static/media/Layer 8@2x.png": "/Dashboard/static/media/Layer 8@2x.dec83c2d30f7804780d5.png",
+    "static/media/Layer 7@2x.png": "/Dashboard/static/media/Layer 7@2x.271a55f2dcf4b25c17de.png",
+    "static/media/pexels-photo-1222271@2x.png": "/Dashboard/static/media/pexels-photo-1222271@2x.cee241be8a612516a7e1.png",
+    "static/media/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc@2x.png": "/Dashboard/static/media/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc@2x.542121c26646b9ecc886.png",
+    "static/media/Layer 9@2x.png": "/Dashboard/static/media/Layer 9@2x.75bcd1d7d9c413a4eb90.png",
+    "static/media/TestLogo.svg": "/Dashboard/static/media/TestLogo.88af223195d0f4c09a8c609cf21c6d07.svg",
+    "static/media/respiratory rate.svg": "/Dashboard/static/media/respiratory rate.91b9df1e29e5ac8db704985dfba6f58b.svg",
+    "static/media/settings_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/settings_FILL0_wght300_GRAD0_opsz24.54c7341e4f983882bc667b5404b24d06.svg",
+    "static/media/group_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/group_FILL0_wght300_GRAD0_opsz24.8e2b21f0f3058da9a4720e82e371322a.svg",
+    "static/media/temperature.svg": "/Dashboard/static/media/temperature.bcc3cba2fce6f4d9881558099af8bd22.svg",
+    "static/media/HeartBPM.svg": "/Dashboard/static/media/HeartBPM.93064b7ab936b185a665ba2a7b82c70a.svg",
+    "static/media/PhoneIcon.svg": "/Dashboard/static/media/PhoneIcon.651ef2ea6751099115cff0f3f6333c42.svg",
+    "static/media/InsuranceIcon.svg": "/Dashboard/static/media/InsuranceIcon.e06040ecffafaa86eb268bc53110b000.svg",
+    "static/media/MaleIcon.svg": "/Dashboard/static/media/MaleIcon.63bbef2b26a86f7d746c44559dc809f2.svg",
+    "static/media/FemaleIcon.svg": "/Dashboard/static/media/FemaleIcon.4f67c7525381848d66443cb1dd206a56.svg",
+    "static/media/download_FILL0_wght300_GRAD0_opsz24 (1).svg": "/Dashboard/static/media/download_FILL0_wght300_GRAD0_opsz24 (1).7978e61f446647aad84459d171783114.svg",
+    "static/media/BirthIcon.svg": "/Dashboard/static/media/BirthIcon.21b4f31e965a171528a0e5c485cf5bfe.svg",
+    "static/media/calendar_today_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/calendar_today_FILL0_wght300_GRAD0_opsz24.a507bf19d18aaf3bc29cf5e18b348a13.svg",
+    "static/media/more_vert_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/more_vert_FILL0_wght300_GRAD0_opsz24.d16a730a98a471ca6001685ef82c547d.svg",
+    "static/media/home_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/home_FILL0_wght300_GRAD0_opsz24.9721604287b838f7bb2d308da7ad58c0.svg",
+    "static/media/more_horiz_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/more_horiz_FILL0_wght300_GRAD0_opsz24.54b8cdaddb378799dd125df66df6b519.svg",
+    "static/media/search_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/search_FILL0_wght300_GRAD0_opsz24.dc77fcb80c94b9c4b3251f3c6c817344.svg",
+    "static/media/credit_card_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/credit_card_FILL0_wght300_GRAD0_opsz24.f6fad4a06c12d5125e8d504e78466c90.svg",
+    "index.html": "/Dashboard/index.html",
+    "static/media/chat_bubble_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/chat_bubble_FILL0_wght300_GRAD0_opsz24.d19000e7b1297adb19ca6baf1d700a9e.svg",
+    "static/media/expand_more_FILL0_wght300_GRAD0_opsz24.svg": "/Dashboard/static/media/expand_more_FILL0_wght300_GRAD0_opsz24.a52cce2ce303ba72ebb0738e5086e0c5.svg",
+    "static/media/ArrowDown.svg": "/Dashboard/static/media/ArrowDown.b9c4d70b22fa0deaa1a5c9a9b6db8157.svg",
+    "static/media/ArrowUp.svg": "/Dashboard/static/media/ArrowUp.bc2a412d5da9756768289864c2df3d73.svg",
+    "main.ed43c48f.css.map": "/Dashboard/static/css/main.ed43c48f.css.map",
+    "main.8b1a76af.js.map": "/Dashboard/static/js/main.8b1a76af.js.map",
+    "453.59b8a61b.chunk.js.map": "/Dashboard/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed43c48f.css",
+    "static/js/main.8b1a76af.js"
+  ]
+}
