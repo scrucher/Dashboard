@@ -113,9 +113,13 @@ const Dashboard = ({patient}) => {
               <h3 className="text-lg font-semibold pt-[36] text-gray-800 mb-4">Blood Pressure</h3>
               <canvas ref={barChartRef} className=" w-svw"></canvas>
             </div>
-            <div className=" grid grid-cols-1 divide-y divide-solid w-[208px] px-[20px] py-[20px]">
+            <div className=" grid grid-cols-1 divide-y divide-solid divide-gray w-[208px] px-[20px] py-[20px]">
               <div className="card">
-                <h6 className="text-xl font-semibold  text-gray-800 mb-4 decoration-solid list-disc">Systolic</h6>
+                <div className="flex gap-[10px] items-baseline">
+                    <span className="h-[15px] w-[15px] bg-[#a99cca] rounded-full"></span>
+                    <h6 className="text-xl font-semibold  text-gray-800 mb-4 decoration-solid list-disc">Systolic</h6>
+                </div>
+                
                 <p className="text-3xl font-semibold ">{systolic[5]}</p>
                 <div className="flex flex-grow ">
                   <img src={ArrowUp} alt="" />
@@ -123,7 +127,10 @@ const Dashboard = ({patient}) => {
                 </div>
               </div>
               <div className="card">
-                <h6 className="text-xl font-semibold pt-[36px] text-gray-800 mb-4 decoration-solid list-disc">Diastolic</h6>
+              <div className="flex gap-[10px] items-baseline">
+                    <span className="h-[15px] w-[15px] bg-[#E66FD2] rounded-full"></span>
+                    <h6 className="text-xl font-semibold  text-gray-800 mb-4 decoration-solid list-disc">Diastolic</h6>
+                </div>
                 <p className="text-3xl font-semibold "> {diastolic[5]}</p>
                 <div className="flex flex-grow ">
                   <img src={ArrowDown} alt="" />

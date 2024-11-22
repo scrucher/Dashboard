@@ -1,7 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 import { MoreHoriz, Search } from "../Assets";
 
 const SideBarComponent = ({ patients, setPerson }) => {
+  const [activeIndex, setActiveIndex] = useState(null);
+
+  const activeLink = (index) => {
+    setActiveIndex(index);
+  };
+
   return (
     <div className="bg-white w-[367px] rounded-[16px] pt-[18px] h-full flex flex-col">
       {/* Header */}
@@ -17,8 +23,8 @@ const SideBarComponent = ({ patients, setPerson }) => {
         <ul className="space-y-2 max-h-svh">
           {patients.map((patient, index) => (
             <li
-              className="w-full hover:bg-[#D8FCF7] cursor-pointer"
-              onClick={() => setPerson(patient)}
+              className={`w-full cursor-pointer ${activeIndex === index ? 'bg-[#D8FCF7]' : 'hover:bg-[#D8FCF7]'}`}
+              onClick={() => { setPerson(patient); activeLink(index); }}
               key={`${index}-${patient.age}-${patient.name}`}
             >
               <div className="flex items-center justify-between w-full p-[20px]">

@@ -5,7 +5,7 @@ import { BirthIcon, FemaleIcon, InsuranceIcon, Layer7_2x, MaleIcon, PhoneIcon } 
 const Profile = ({patient}) => {
     return(
         <div className="grid grid-cols-1 w-full h-fit bg-white rounded-[16px] ">
-            <div className="flex flex-col items-center  px-[20px] py-[52px]">
+            <div className="flex flex-col items-center  px-[20px] py-[42px]">
                 <div className="flex flex-col items-center"> 
                     <img src={patient ? patient.profile_picture : '-'} alt="" className="rounded-full h-[200px] w-[200px]"/>
                     <div className="pt-[24px]">
